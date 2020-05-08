@@ -1,0 +1,15 @@
+{
+  "name": "repodata",
+  "version": "1.0.0",
+  "description": "Get repo data from Github API",
+  "main": "build_summary.js",
+  "scripts": {
+    "start": "node build_summary.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

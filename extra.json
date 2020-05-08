@@ -1,0 +1,310 @@
+
+[
+  {
+    "name": "any-counter",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "anycounter-experiments",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "arduino_12v_led",
+    "notes": "Keeping as a reference.",
+    "ideas": ""
+  },
+  {
+    "name": "code_challenges",
+    "notes": "From leet code, AWS inteview, Pure-CSS-Daily-Challenge, etc.",
+    "ideas": "Will continue to add to this."
+  },
+  {
+    "name": "css-grid-resume",
+    "notes": "HTML and CSS only",
+    "ideas": "Hope this can serve as a template"
+  },
+  {
+    "name": "css-grid-resume-mine",
+    "notes": "Really is my latest up todate resume",
+    "ideas": "Want to add more interaction, extended information for online."
+  },
+  {
+    "name": "css-whack-a-mole",
+    "notes": "This is ONLY HTML and CSS",
+    "ideas": "Want to add this as an Easter Egg sometime"
+  },
+  {
+    "name": "daemon-challenge",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "esp32-dht11",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "esp32-pir",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "fcc-fe-simon-game",
+    "notes": "",
+    "ideas": "TODO: Revive and deploy on GH Pages with GH Actions"
+  },
+  {
+    "name": "fcc-fe-tic-tac-toe",
+    "notes": "",
+    "ideas": "TODO: Revive and deploy on GH Pages with GH Actions"
+  },
+  {
+    "name": "gatsby-gh-pages-action",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "gc-stats",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "gitprime-patterns",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "go_wasm",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "junit-plugin",
+    "notes": "Extended this for a work project",
+    "ideas": ""
+  },
+  {
+    "name": "leadership",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "mental-models",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "my-blog",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "my-blog2",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "my-gatsby-project",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "my-gatsby-project-netlify",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "pi-gen",
+    "notes": "This fork contains several mods for EXTENDING the base pi-gen for Raspian",
+    "ideas": "TODO: need to sync with master"
+  },
+  {
+    "name": "project-portfolio",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "project-portfolio-html",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "project-portfolio0",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "project-portfolio1",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "project-portfolio2",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "project-portfolio3",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "pup-parse-bsb",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "pure-css-daily-challenges",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "pwa-presentation",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "py-gists",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "py-parse-bsb",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "react-dice",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "react-stats-bsb",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "rpi_parking_sensor",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "rpn-calc-chrome-extension",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "rpn-calc-vscode-extension",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "rpn-hex-calculator-mobile",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "simple-score-vb-error",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "simple-score-vb-serve",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "simple-score-volleyball-pwa",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-all",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-bauer",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-github",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-larimer-county-workforce-development",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-linkedin",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-madwire",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-nutrien",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-portfolio2",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-template",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "site-evaluation-triplecrown",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "state-web-development-2018-2019-withD3-pwa",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "state-web-development-2018-2019-withD3-static",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "terms-pwa-starter",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "ubuntu-18.04-server-setup",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "vscode",
+    "notes":
+      "No current changes at this time.  Created a fork to better understand how this awesome tool works.",
+    "ideas":
+      "Would like to add a 'meld' like diff; would like to add a smart logfile diff that ignores marked timestamps."
+  },
+  {
+    "name": "vscode-diff",
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "vscode-hints",
+    "notes": "",
+    "ideas": ""
+  }
+]

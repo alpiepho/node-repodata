@@ -1,0 +1,84 @@
+
+[
+  {
+    "name": "pup-damager",
+    "html_url": "https://github.com/alpiepho/pup-damager",
+    "description": "",
+    "fork": false,
+    "language": "JavaScript",
+    "private": true,
+    "notes": "Puppeteer test for DNS Manager",
+    "ideas": ""
+  },
+  {
+    "name": "pup-jenkins",
+    "html_url": "https://github.com/alpiepho/pup-jenkins",
+    "description": "",
+    "fork": false,
+    "language": "Python",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "docker_serdes",
+    "html_url": "https://github.com/alpiepho/docker_serdes",
+    "description": "",
+    "fork": false,
+    "language": "Shell",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "wordpress_notes",
+    "html_url": "https://github.com/alpiepho/wordpress_notes",
+    "description": "Notes related to learning Wordpress",
+    "fork": false,
+    "language": "Shell",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "TargetSum",
+    "html_url": "https://github.com/alpiepho/TargetSum",
+    "description": "My implementation of tutorial from LinkedIn Learning react-native-essential-training (https://github.com/jscomplete/react-native-essential-training)",
+    "fork": false,
+    "language": "Shell",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "terms4",
+    "html_url": "https://github.com/alpiepho/terms4",
+    "description": "Re-write of Terms3 app front-end (Angular2) that keeps a list of Terms with links on Heroku (Node/Express/Mongo backend). gh-pages branch is a serverless version with mock data, no backend implemen…",
+    "fork": false,
+    "language": "JavaScript",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "parse-bsb-stats",
+    "html_url": "https://github.com/alpiepho/parse-bsb-stats",
+    "description": "Simple React application to display results from another project (py-parse-bsb)",
+    "fork": false,
+    "language": "JavaScript",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  },
+  {
+    "name": "simple-baseball-score",
+    "html_url": "https://github.com/alpiepho/simple-baseball-score",
+    "description": "Simple Baseball Scoring App",
+    "fork": false,
+    "language": "JavaScript",
+    "private": true,
+    "notes": "",
+    "ideas": ""
+  }
+
+]
