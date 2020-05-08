@@ -11,9 +11,14 @@ the first 4 lines:
 
 ```
 
-or npm start | awk 'NR>4'
+or npm start | awk 'NR>4' > github-summary.mdx
 
 Another current issues is a rate limit on the github api.  Currently this is 60/hr
 without any authentication.  When athentication is implmented, this should go up to
 5000/hr.
  
+### TODO
+
+- generate html (like pup-learning)
+- refactor with main.js
+- add GH Action
