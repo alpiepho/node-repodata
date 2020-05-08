@@ -19,6 +19,7 @@ without any authentication.  When athentication is implmented, this should go up
  
 ### TODO
 
+- add user as environment variable
 - generate html (like pup-learning)
 - refactor with main.js
 - add GH Action
