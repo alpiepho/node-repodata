@@ -4,7 +4,7 @@
 <sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>
 
 (73 Total, 67 Public, 6 Forks)<br>
-<sup><sub>(updated Fri Aug 21 2020 20:12:30 GMT+0000 (Coordinated Universal Time))</sub></sup>
+<sup><sub>(updated Fri Aug 21 2020 20:31:33 GMT+0000 (Coordinated Universal Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
@@ -154,7 +154,7 @@ A simple Node.js app to process the subscription export file from Overcast podca
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-21T20:12:18Z</sub></sup><br>
+<sup><sub>2020-08-21T20:25:01Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
