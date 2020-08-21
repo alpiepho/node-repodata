@@ -5,10 +5,6 @@ on:
     branches:
       - master
 
-  strategy:
-    matrix:
-      node-version: [12.x]
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,6 +13,6 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: '12.x'
     - run: npm install
     - run: npm start
