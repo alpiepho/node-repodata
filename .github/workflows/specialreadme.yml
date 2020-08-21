@@ -1,13 +1,13 @@
 name: Special README Publish
 
-# on:
-#   push:
-#     branches:
-#       - master
 on:
-  schedule:
-    - cron: "*/5 * * * *"
-    
+  push:
+    branches:
+      - master
+# on:
+#   schedule:
+#     - cron: "*/5 * * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
