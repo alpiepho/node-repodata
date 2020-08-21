@@ -17,3 +17,5 @@ jobs:
     - run: npm install
     - run: npm start
     - run: cat SpecialReadme.md
+    - run: git diff
+    
