@@ -1,14 +1,25 @@
 // TODO: create token and get private repos (WARNING: still cant get private repos, see private.json as workaround)
 // TODO: roll this to "better gh profile page???"
 
+// curl -H "Accept: application/vnd.github.v3+json" -H "Authorization: token <TOKEN with repo>" "https://alpiepho@api.github.com/user/repos?per_page=100&type=private"
+
 var axios = require("axios")
 var fs = require('fs');
 
-
+var GHAPI_TYPE = 'all' // all, public
 var MAX_GHAPI_PAGEPER = 100
 var MAX_GHAPI_MAXPAGES = 2
-var github_base =
-  "https://api.github.com/users/alpiepho/repos?per_page=" +
+var github_base_public =
+  "https://api.github.com/users/alpiepho/repos?type=" +
+  GHAPI_TYPE +
+  "&per_page=" +
+  MAX_GHAPI_PAGEPER +
+  "&page="
+
+var github_base_private =
+  "https://api.github.com/user/repos?type=" +
+  GHAPI_TYPE +
+  "&per_page=" +
   MAX_GHAPI_PAGEPER +
   "&page="
 
@@ -133,7 +144,11 @@ function finishMDX(header, jsonData) {
     if (element.ideas) fileData += "- " + element.ideas + "\n"
     fileData += "" + "\n"
   })
-  fs.writeFileSync("github-summary.mdx", fileData)
+
+  if (GHAPI_TYPE == "all")
+  fs.writeFileSync("github-summary-all.mdx", fileData)
+  if (GHAPI_TYPE == "public")
+    fs.writeFileSync("github-summary.mdx", fileData)
 }
 
 
@@ -149,7 +164,8 @@ function finishSpecialReadme(header, jsonData) {
 
   fileData = ""
 
-  fileData += "\n### All Public Repositories Alphabetically\n\n<sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>\n\n(" + jsonData.length + " Total, " + publicCount + " Public, " + forkCount + " Forks)<br>\n"
+  fileData += "\n### All Public Repositories Alphabetically\n\n<sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>\n\n(" + 
+                jsonData.length + " Total, " + publicCount + " Public, " + privateCount + " Private, " + forkCount + " Forks)<br>\n"
   today = new Date()
   fileData += "<sup><sub>(updated " + today + ")</sub></sup>\n"
   fileData += "\n"
@@ -157,6 +173,7 @@ function finishSpecialReadme(header, jsonData) {
   jsonData.forEach((element, index) => {
     subscriptStr = "(public)"
     if (element.fork) subscriptStr = "(fork)"
+    if (element.private) subscriptStr = "(private)"
     if (element.hasREADMEmd) {
       fileData += "[" + element.name + "](" + element.html_url + "/blob/master/README.md) <sup><i>" + subscriptStr + "</i></sup> <br>" + "\n"
     } else {
@@ -218,14 +235,25 @@ function finishSpecialReadme(header, jsonData) {
     // if (element.ideas) fileData += "- " + element.ideas + "\n"
     fileData += "\n"
   })
-  fs.writeFileSync("SpecialReadme.md", fileData)
+  if (GHAPI_TYPE == "all")
+    fs.writeFileSync("SpecialReadmeAll.md", fileData)
+  if (GHAPI_TYPE == "public")
+    fs.writeFileSync("SpecialReadme.md", fileData)
 }
 
 
+/////////////////////////////////////////////////
+// MAIN
+/////////////////////////////////////////////////
+let github_base = github_base_public
 let options = {}
 if (process.env.GH_API_TOKEN) {
+  github_base = github_base_private
   options = {
-    headers: { 'Authorization': 'token ' + process.env.GH_API_TOKEN }
+    headers: { 
+      'Accept': 'application/vnd.github.v3+json',
+      'Authorization': 'token ' + process.env.GH_API_TOKEN,
+   }
   }
 }
 
