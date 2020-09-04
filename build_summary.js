@@ -2,7 +2,7 @@
 var axios = require("axios")
 var fs = require('fs');
 
-var GHAPI_TYPE = 'all' // all, public
+var GHAPI_TYPE = 'public' // all, public
 var MAX_GHAPI_PAGEPER = 100
 var MAX_GHAPI_MAXPAGES = 2
 var github_base_public =

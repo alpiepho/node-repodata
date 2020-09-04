@@ -1,13 +1,13 @@
 
 ### All Public Repositories Alphabetically
 
-(73 Total, 67 Public, 6 Forks)<br>
-<sup><sub>(updated Fri Sep 04 2020 11:36:03 GMT-0600 (Mountain Daylight Time))</sub></sup>
+(52 Total, 47 Public, 5 Forks)<br>
+<sup><sub>(updated Fri Sep 04 2020 14:57:31 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-01T12:37:12Z</sub></sup><br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-09-04T18:15:08Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -28,11 +28,6 @@ Simple PWA that runs a counter given custom number and range of digits. Includes
 Performance experiments with C/C++/JS/Go/Rust/WASM using simple 'any' counter algorithm<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-01-17T15:39:08Z</sub></sup><br>
-
-[arduino_12v_led](https://github.com/alpiepho/arduino_12v_led/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-My implementation of arduino uno tutorial for controlling string of 12v leds<br>
-![##F34B7C](https://placehold.it/15/f34b7/000000?text=+) C++<br>
-<sup><sub>2020-04-08T02:48:41Z</sub></sup><br>
 
 [arduino_scoreboard](https://github.com/alpiepho/arduino_scoreboard/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple arduino scoreboard using string of leds<br>
@@ -59,16 +54,6 @@ Code behind my codepen fork and modifications<br>
 ![##58407E](https://placehold.it/15/58407e/000000?text=+) CSS<br>
 <sup><sub>2019-10-22T09:39:22Z</sub></sup><br>
 
-[esp32-dht11](https://github.com/alpiepho/esp32-dht11/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-My implementation of arduino/esp32 tutorial for dht11 Temperature/Humidity sensor<br>
-![##F34B7C](https://placehold.it/15/f34b7/000000?text=+) C++<br>
-<sup><sub>2020-04-06T22:58:20Z</sub></sup><br>
-
-[esp32-pir](https://github.com/alpiepho/esp32-pir/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-My implementation of arduino/esp32 tutorial for PIR motion sensor<br>
-![##F34B7C](https://placehold.it/15/f34b7/000000?text=+) C++<br>
-<sup><sub>2020-04-06T23:09:25Z</sub></sup><br>
-
 [fcc-fe-simon-game](https://github.com/alpiepho/fcc-fe-simon-game) <sup><i>(public)</i></sup> <br>
 Code from Free Code Camp project for Front End Development program.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
@@ -78,6 +63,11 @@ Code from Free Code Camp project for Front End Development program.<br>
 From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2017-07-25T18:17:31Z</sub></sup><br>
+
+[gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Build blazing fast, modern apps and websites with React<br>
+![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
+<sup><sub>2020-09-04T19:21:29Z</sub></sup><br>
 
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
@@ -93,11 +83,6 @@ Web application to view baseball stats data gathered from Node.js/Selenium tool 
 A review of GitPrime 20 Patterns e-book as a PWA<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:37:08Z</sub></sup><br>
-
-[go_wasm](https://github.com/alpiepho/go_wasm/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Experiments from various tutorials on using Go and WebAssembly<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-01-09T16:40:37Z</sub></sup><br>
 
 [gophercises](https://github.com/alpiepho/gophercises/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My solutions for the Gophercises challenges.  A work in progress...<br>
@@ -129,16 +114,6 @@ Another version of my blog based on the Gatsby blog theme (starter)<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-08-21T15:06:12Z</sub></sup><br>
 
-[my-gatsby-project](https://github.com/alpiepho/my-gatsby-project/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Gatsby default starter project "playground" with branches for key additional features (Deploy gh-pages, Dark Mode, PWA, etc)<br>
-![##58407E](https://placehold.it/15/58407e/000000?text=+) CSS<br>
-<sup><sub>2020-06-08T01:37:37Z</sub></sup><br>
-
-[my-gatsby-project-netlify](https://github.com/alpiepho/my-gatsby-project-netlify/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-A version of playground 'my-gatsby-project' with netlify support (using tutorial at https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/ )<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:32:55Z</sub></sup><br>
-
 [my-pure-css](https://github.com/alpiepho/my-pure-css/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Collecting all my Pure CSS CodePen projects into a single site.<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
@@ -152,7 +127,7 @@ A simple Node.js app to process the subscription export file from Overcast podca
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-27T12:00:15Z</sub></sup><br>
+<sup><sub>2020-09-04T17:59:31Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -192,7 +167,7 @@ Portfolio ported to Jekyll<br>
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-08-24T13:42:04Z</sub></sup><br>
+<sup><sub>2020-09-04T19:46:49Z</sub></sup><br>
 
 [pup-learning-aws](https://github.com/alpiepho/pup-learning-aws/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Gather learning details from AWS using Puppeteer<br>
@@ -244,16 +219,6 @@ Baseball stats UI written in react, showing data gathered from pup-parse-bsb.<br
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-07-12T13:45:42Z</sub></sup><br>
 
-[renderjson](https://github.com/alpiepho/renderjson/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
-Render JSON into collapsible HTML<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-05-03T17:07:28Z</sub></sup><br>
-
-[rpi_parking_sensor](https://github.com/alpiepho/rpi_parking_sensor/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Building a garage parking sensor from and RPI and parts, using Python.<br>
-![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>
-<sup><sub>2020-03-16T11:50:26Z</sub></sup><br>
-
 [rpn-calc-chrome-extension](https://github.com/alpiepho/rpn-calc-chrome-extension/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A simple reverse-polish-notation (RPN) hex/dec calculator Chrome Browser Extension<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
@@ -264,75 +229,10 @@ Simple RPN (reverse polish notation) Hex calculator as a Visual Studio Code exte
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:36:49Z</sub></sup><br>
 
-[rpn-hex-calculator-mobile](https://github.com/alpiepho/rpn-hex-calculator-mobile) <sup><i>(public)</i></sup> <br>
-A mobile application for a RPN (reverse polish) hexadecimal calculator based on Xamarin<br>
-![##178600](https://placehold.it/15/178600/000000?text=+) C#<br>
-<sup><sub>2017-10-12T14:28:58Z</sub></sup><br>
-
-[simple-score-vb-error](https://github.com/alpiepho/simple-score-vb-error/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Simple web app to track player errors in a Volleyball match or tournament<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-01-26T04:45:06Z</sub></sup><br>
-
-[simple-score-vb-serve](https://github.com/alpiepho/simple-score-vb-serve/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Simple web app to track details about how someone serves in volleyball<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-01-25T20:48:15Z</sub></sup><br>
-
 [simple-score-volleyball-pwa](https://github.com/alpiepho/simple-score-volleyball-pwa/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A PWA application that allows easy score keeping of a volleyball match and send results as text messages.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:31:58Z</sub></sup><br>
-
-[site-evaluation-all](https://github.com/alpiepho/site-evaluation-all/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Master list of site evaluation repos and gh-pages.<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T22:06:47Z</sub></sup><br>
-
-[site-evaluation-bauer](https://github.com/alpiepho/site-evaluation-bauer/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary site evaluation.<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-06T23:11:12Z</sub></sup><br>
-
-[site-evaluation-github](https://github.com/alpiepho/site-evaluation-github/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary site evaluation of GitHub (really, because I'm curious)<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T14:59:01Z</sub></sup><br>
-
-[site-evaluation-larimer-county-workforce-development](https://github.com/alpiepho/site-evaluation-larimer-county-workforce-development/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary site evaluation for Larimer County Workforce Development Department<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T21:43:01Z</sub></sup><br>
-
-[site-evaluation-linkedin](https://github.com/alpiepho/site-evaluation-linkedin/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary site evaluation of LinkedIn (really, because I'm curious)<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T14:57:14Z</sub></sup><br>
-
-[site-evaluation-madwire](https://github.com/alpiepho/site-evaluation-madwire/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary web site evaluation for Madwire<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T14:59:07Z</sub></sup><br>
-
-[site-evaluation-nutrien](https://github.com/alpiepho/site-evaluation-nutrien/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary web site evaluation for Nutrien<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T14:59:11Z</sub></sup><br>
-
-[site-evaluation-portfolio2](https://github.com/alpiepho/site-evaluation-portfolio2/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-A self evaluation of something I built, my portfolio site.<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T14:59:15Z</sub></sup><br>
-
-[site-evaluation-template](https://github.com/alpiepho/site-evaluation-template/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Template for performing complimentary web site evaluation.<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-05T14:59:18Z</sub></sup><br>
-
-[site-evaluation-triplecrown](https://github.com/alpiepho/site-evaluation-triplecrown/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Complimentary site evaluation.<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2019-08-06T22:32:41Z</sub></sup><br>
 
 [state-web-development-2018-2019-withD3-pwa](https://github.com/alpiepho/state-web-development-2018-2019-withD3-pwa/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 D3 forced directed diagram based on State of Javascript 2018 and State of CSS 2019 - Ported to React/Gatsby/PWA<br>
@@ -343,11 +243,6 @@ D3 forced directed diagram based on State of Javascript 2018 and State of CSS 20
 D3 forced directed diagram based on State of Javascript 2018 and State of CSS 2019<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2019-07-19T23:04:00Z</sub></sup><br>
-
-[terms-pwa-starter](https://github.com/alpiepho/terms-pwa-starter/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-A Gatsby starter for a PWA that shows a list of terms and other details about the terms.<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:32:27Z</sub></sup><br>
 
 [ubuntu-18.04-server-setup](https://github.com/alpiepho/ubuntu-18.04-server-setup/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Notes and tools to set up Ubuntu 18.04 development system with KVM etc.<br>
