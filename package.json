@@ -5,7 +5,9 @@
   "main": "build_summary.js",
   "scripts": {
     "start": "node build_summary.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:all": "cp README_all_repos.md ../../special_github/AllRepoList/README.md",
+    "install:public": "cp README_public_repos.md ../../special_github/AlPiepho/README_public_repos.md"
   },
   "author": "",
   "license": "ISC",

@@ -1,15 +1,13 @@
 
 ### All Public Repositories Alphabetically
 
-<sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>
-
-(74 Total, 68 Public, 0 Private, 6 Forks)<br>
-<sup><sub>(updated Wed Aug 26 2020 12:56:43 GMT-0600 (Mountain Daylight Time))</sub></sup>
+(73 Total, 67 Public, 6 Forks)<br>
+<sup><sub>(updated Fri Sep 04 2020 11:36:03 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-26T18:30:44Z</sub></sup><br>
+<sup><sub>2020-09-01T12:37:12Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -80,11 +78,6 @@ Code from Free Code Camp project for Front End Development program.<br>
 From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2017-07-25T18:17:31Z</sub></sup><br>
-
-[gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Build blazing fast, modern apps and websites with React<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-26T16:58:26Z</sub></sup><br>
 
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
@@ -159,7 +152,7 @@ A simple Node.js app to process the subscription export file from Overcast podca
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-21T20:32:45Z</sub></sup><br>
+<sup><sub>2020-08-27T12:00:15Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -219,7 +212,7 @@ Parse baseball scores using puppeteer<br>
 [pup-rally](https://github.com/alpiepho/pup-rally/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 (see link)<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-07-02T13:42:53Z</sub></sup><br>
+<sup><sub>2020-08-27T15:34:54Z</sub></sup><br>
 
 [pure-css-daily-challenges](https://github.com/alpiepho/pure-css-daily-challenges) <sup><i>(public)</i></sup> <br>
 Files for the 50 Day CSS Challenge. See collection in CodePen, https://codepen.io/collection/DYpQdK/<br>

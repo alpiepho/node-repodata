@@ -1,7 +1,3 @@
-// TODO: create token and get private repos (WARNING: still cant get private repos, see private.json as workaround)
-// TODO: roll this to "better gh profile page???"
-
-// curl -H "Accept: application/vnd.github.v3+json" -H "Authorization: token <TOKEN with repo>" "https://alpiepho@api.github.com/user/repos?per_page=100&type=private"
 
 var axios = require("axios")
 var fs = require('fs');
@@ -162,10 +158,15 @@ function finishSpecialReadme(header, jsonData) {
   [privateCount, publicCount, forkCount] = getCounts(jsonData)
   publicCount -= forkCount
 
-  fileData = ""
+  if (GHAPI_TYPE == "all")
+    privateDetails = "" + privateCount + " Private, ";
+  fs.writeFileSync("README_all_repos.md", fileData)
+  if (GHAPI_TYPE == "public")
+    privateDetails = "";
 
-  fileData += "\n### All Public Repositories Alphabetically\n\n<sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>\n\n(" + 
-                jsonData.length + " Total, " + publicCount + " Public, " + privateCount + " Private, " + forkCount + " Forks)<br>\n"
+  fileData = ""
+  fileData += "\n### All Public Repositories Alphabetically\n\n(" + 
+                jsonData.length + " Total, " + publicCount + " Public, " + privateDetails + forkCount + " Forks)<br>\n"
   today = new Date()
   fileData += "<sup><sub>(updated " + today + ")</sub></sup>\n"
   fileData += "\n"
@@ -236,9 +237,9 @@ function finishSpecialReadme(header, jsonData) {
     fileData += "\n"
   })
   if (GHAPI_TYPE == "all")
-    fs.writeFileSync("SpecialReadmeAll.md", fileData)
+    fs.writeFileSync("README_all_repos.md", fileData)
   if (GHAPI_TYPE == "public")
-    fs.writeFileSync("SpecialReadme.md", fileData)
+    fs.writeFileSync("README_public_repos.md", fileData)
 }
 
 
