@@ -1,13 +1,13 @@
 
 ### All Public Repositories Alphabetically
 
-(52 Total, 47 Public, 5 Forks)<br>
-<sup><sub>(updated Fri Sep 04 2020 14:57:31 GMT-0600 (Mountain Daylight Time))</sub></sup>
+(56 Total, 48 Public, 8 Forks)<br>
+<sup><sub>(updated Wed Sep 23 2020 05:22:00 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-09-04T18:15:08Z</sub></sup><br>
+<sup><sub>2020-09-18T14:20:22Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -32,7 +32,12 @@ Performance experiments with C/C++/JS/Go/Rust/WASM using simple 'any' counter al
 [arduino_scoreboard](https://github.com/alpiepho/arduino_scoreboard/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple arduino scoreboard using string of leds<br>
 ![##545454](https://placehold.it/15/545454/000000?text=+) C<br>
-<sup><sub>2020-08-20T00:07:10Z</sub></sup><br>
+<sup><sub>2020-09-14T12:28:59Z</sub></sup><br>
+
+[circuitjs1](https://github.com/alpiepho/circuitjs1/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
+Electronic Circuit Simulator in the Browser<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-09-08T12:35:21Z</sub></sup><br>
 
 [code_challenges](https://github.com/alpiepho/code_challenges/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A collection of code challenge and interview questions that I have encountered (C, C++, HTML, JS, CSS)<br>
@@ -47,7 +52,7 @@ Responsive CSS Resume Template<br>
 [css-grid-resume-mine](https://github.com/alpiepho/css-grid-resume-mine/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My own resume derived from the css-grid-resume.<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-06-16T09:00:40Z</sub></sup><br>
+<sup><sub>2020-09-17T19:51:33Z</sub></sup><br>
 
 [css-whack-a-mole](https://github.com/alpiepho/css-whack-a-mole/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Code behind my codepen fork and modifications<br>
@@ -67,7 +72,7 @@ From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 [gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Build blazing fast, modern apps and websites with React<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-04T19:21:29Z</sub></sup><br>
+<sup><sub>2020-09-23T11:16:53Z</sub></sup><br>
 
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
@@ -112,7 +117,7 @@ My first blog based on a React/Gatsby starter project.<br>
 [my-blog2](https://github.com/alpiepho/my-blog2/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Another version of my blog based on the Gatsby blog theme (starter)<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-21T15:06:12Z</sub></sup><br>
+<sup><sub>2020-09-10T13:51:05Z</sub></sup><br>
 
 [my-pure-css](https://github.com/alpiepho/my-pure-css/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Collecting all my Pure CSS CodePen projects into a single site.<br>
@@ -122,12 +127,12 @@ Collecting all my Pure CSS CodePen projects into a single site.<br>
 [node-overcast-rss](https://github.com/alpiepho/node-overcast-rss/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A simple Node.js app to process the subscription export file from Overcast podcast application<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-07-19T13:17:54Z</sub></sup><br>
+<sup><sub>2020-09-15T12:54:44Z</sub></sup><br>
 
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-04T17:59:31Z</sub></sup><br>
+<sup><sub>2020-09-04T20:58:50Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -157,7 +162,7 @@ Version 1 re-written with React and designed as PWA<br>
 [project-portfolio2](https://github.com/alpiepho/project-portfolio2/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Version 2 with Gastby.js and starter.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:36:01Z</sub></sup><br>
+<sup><sub>2020-09-10T13:47:39Z</sub></sup><br>
 
 [project-portfolio3](https://github.com/alpiepho/project-portfolio3/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Portfolio ported to Jekyll<br>
@@ -167,12 +172,12 @@ Portfolio ported to Jekyll<br>
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-09-04T19:46:49Z</sub></sup><br>
+<sup><sub>2020-09-14T23:12:12Z</sub></sup><br>
 
 [pup-learning-aws](https://github.com/alpiepho/pup-learning-aws/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Gather learning details from AWS using Puppeteer<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-06-05T20:14:44Z</sub></sup><br>
+<sup><sub>2020-09-15T12:20:22Z</sub></sup><br>
 
 [pup-lynda](https://github.com/alpiepho/pup-lynda/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Lynda.com courses and details<br>
@@ -187,7 +192,12 @@ Parse baseball scores using puppeteer<br>
 [pup-rally](https://github.com/alpiepho/pup-rally/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 (see link)<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-27T15:34:54Z</sub></sup><br>
+<sup><sub>2020-09-16T18:33:48Z</sub></sup><br>
+
+[pup-yt-fcc](https://github.com/alpiepho/pup-yt-fcc/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Puppeteer application to format YouTube history for FreeCodeCamp courses taken<br>
+![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
+<sup><sub>2020-09-18T18:22:19Z</sub></sup><br>
 
 [pure-css-daily-challenges](https://github.com/alpiepho/pure-css-daily-challenges) <sup><i>(public)</i></sup> <br>
 Files for the 50 Day CSS Challenge. See collection in CodePen, https://codepen.io/collection/DYpQdK/<br>
@@ -197,7 +207,7 @@ Files for the 50 Day CSS Challenge. See collection in CodePen, https://codepen.i
 [pwa-presentation](https://github.com/alpiepho/pwa-presentation/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Slides for my upcoming PWA Presentation<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2019-10-20T19:58:37Z</sub></sup><br>
+<sup><sub>2020-09-18T10:19:22Z</sub></sup><br>
 
 [py-gists](https://github.com/alpiepho/py-gists/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Since gists are hard to find, moving key python gists to a repo<br>
@@ -228,6 +238,11 @@ A simple reverse-polish-notation (RPN) hex/dec calculator Chrome Browser Extensi
 Simple RPN (reverse polish notation) Hex calculator as a Visual Studio Code extension.  RECENTLY published on MS Marketplace!<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:36:49Z</sub></sup><br>
+
+[simple-autoscroll](https://github.com/alpiepho/simple-autoscroll/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
+An extension that adds the ability to automatically scroll through long pages. <br>
+![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
+<sup><sub>2020-09-22T12:30:24Z</sub></sup><br>
 
 [simple-score-volleyball-pwa](https://github.com/alpiepho/simple-score-volleyball-pwa/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A PWA application that allows easy score keeping of a volleyball match and send results as text messages.<br>
@@ -263,4 +278,9 @@ Compare Two Folders in Visual Studio Code<br>
 Some of my hints for configuring VS Code, like keyboard shortcuts, great plugins, remote editing via ssh, etc.<br>
 ![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
 <sup><sub>2020-02-28T13:02:23Z</sub></sup><br>
+
+[vscode-python-devicesimulator](https://github.com/alpiepho/vscode-python-devicesimulator/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
+Device Simulator Express, a Microsoft Garage project<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-09-08T12:27:15Z</sub></sup><br>
 
