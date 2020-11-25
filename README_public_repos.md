@@ -1,13 +1,13 @@
 
 ### All Public Repositories Alphabetically
 
-(56 Total, 48 Public, 8 Forks)<br>
-<sup><sub>(updated Wed Sep 23 2020 05:22:00 GMT-0600 (Mountain Daylight Time))</sub></sup>
+(61 Total, 51 Public, 10 Forks)<br>
+<sup><sub>(updated Wed Nov 25 2020 05:43:49 GMT-0700 (Mountain Standard Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-09-18T14:20:22Z</sub></sup><br>
+<sup><sub>2020-09-28T19:27:48Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -59,6 +59,11 @@ Code behind my codepen fork and modifications<br>
 ![##58407E](https://placehold.it/15/58407e/000000?text=+) CSS<br>
 <sup><sub>2019-10-22T09:39:22Z</sub></sup><br>
 
+[Face_Mask_Detection](https://github.com/alpiepho/Face_Mask_Detection/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
+(see link)<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-11-24T18:55:16Z</sub></sup><br>
+
 [fcc-fe-simon-game](https://github.com/alpiepho/fcc-fe-simon-game) <sup><i>(public)</i></sup> <br>
 Code from Free Code Camp project for Front End Development program.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
@@ -72,7 +77,7 @@ From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 [gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Build blazing fast, modern apps and websites with React<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-23T11:16:53Z</sub></sup><br>
+<sup><sub>2020-11-25T12:05:45Z</sub></sup><br>
 
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
@@ -104,10 +109,25 @@ Quick react app to show the AWS Leadership principles, my interpretation, and so
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:36:13Z</sub></sup><br>
 
+[log_plot](https://github.com/alpiepho/log_plot/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Jupyter Notebook for parsing log file and showing given log messages as a scatter plot<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-11-12T18:24:48Z</sub></sup><br>
+
 [mental-models](https://github.com/alpiepho/mental-models/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Quick PWA to show Mental-Models from Medium article.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:35:05Z</sub></sup><br>
+
+[ml-survey-part01-intro](https://github.com/alpiepho/ml-survey-part01-intro/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Introduction to series of ML tutorial implementations<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-11-24T21:00:27Z</sub></sup><br>
+
+[ml-survey-part02-rpi4-mask-dectector](https://github.com/alpiepho/ml-survey-part02-rpi4-mask-dectector/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+My implementation of Toms Hardware example of ML mask detector on Raspberry Pi 4<br>
+![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>
+<sup><sub>2020-11-24T20:34:35Z</sub></sup><br>
 
 [my-blog](https://github.com/alpiepho/my-blog/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My first blog based on a React/Gatsby starter project.<br>
@@ -127,12 +147,12 @@ Collecting all my Pure CSS CodePen projects into a single site.<br>
 [node-overcast-rss](https://github.com/alpiepho/node-overcast-rss/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A simple Node.js app to process the subscription export file from Overcast podcast application<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-09-15T12:54:44Z</sub></sup><br>
+<sup><sub>2020-11-24T18:23:31Z</sub></sup><br>
 
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-04T20:58:50Z</sub></sup><br>
+<sup><sub>2020-09-23T11:33:05Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -172,7 +192,7 @@ Portfolio ported to Jekyll<br>
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-09-14T23:12:12Z</sub></sup><br>
+<sup><sub>2020-11-24T15:21:26Z</sub></sup><br>
 
 [pup-learning-aws](https://github.com/alpiepho/pup-learning-aws/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Gather learning details from AWS using Puppeteer<br>
@@ -242,12 +262,17 @@ Simple RPN (reverse polish notation) Hex calculator as a Visual Studio Code exte
 [simple-autoscroll](https://github.com/alpiepho/simple-autoscroll/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 An extension that adds the ability to automatically scroll through long pages. <br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-22T12:30:24Z</sub></sup><br>
+<sup><sub>2020-10-05T14:17:46Z</sub></sup><br>
 
 [simple-score-volleyball-pwa](https://github.com/alpiepho/simple-score-volleyball-pwa/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A PWA application that allows easy score keeping of a volleyball match and send results as text messages.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:31:58Z</sub></sup><br>
+
+[Slide-Carousel-Simple](https://github.com/alpiepho/Slide-Carousel-Simple/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
+simple slide carousel / photo viewer<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2020-11-16T22:29:32Z</sub></sup><br>
 
 [state-web-development-2018-2019-withD3-pwa](https://github.com/alpiepho/state-web-development-2018-2019-withD3-pwa/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 D3 forced directed diagram based on State of Javascript 2018 and State of CSS 2019 - Ported to React/Gatsby/PWA<br>
