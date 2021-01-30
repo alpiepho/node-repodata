@@ -1,13 +1,13 @@
 
 ### All Public Repositories Alphabetically
 
-(61 Total, 51 Public, 10 Forks)<br>
-<sup><sub>(updated Wed Nov 25 2020 05:43:49 GMT-0700 (Mountain Standard Time))</sub></sup>
+(46 Total, 37 Public, 9 Forks)<br>
+<sup><sub>(updated Sat Jan 30 2021 12:47:37 GMT-0700 (Mountain Standard Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-09-28T19:27:48Z</sub></sup><br>
+<sup><sub>2020-11-25T12:46:10Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -23,11 +23,6 @@ Simple Ansible script to add/remove SNMPv3 user<br>
 Simple PWA that runs a counter given custom number and range of digits. Includes Web Assembly.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:32:41Z</sub></sup><br>
-
-[anycounter-experiments](https://github.com/alpiepho/anycounter-experiments/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Performance experiments with C/C++/JS/Go/Rust/WASM using simple 'any' counter algorithm<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-01-17T15:39:08Z</sub></sup><br>
 
 [arduino_scoreboard](https://github.com/alpiepho/arduino_scoreboard/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple arduino scoreboard using string of leds<br>
@@ -52,7 +47,7 @@ Responsive CSS Resume Template<br>
 [css-grid-resume-mine](https://github.com/alpiepho/css-grid-resume-mine/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My own resume derived from the css-grid-resume.<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-09-17T19:51:33Z</sub></sup><br>
+<sup><sub>2021-01-30T17:22:43Z</sub></sup><br>
 
 [css-whack-a-mole](https://github.com/alpiepho/css-whack-a-mole/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Code behind my codepen fork and modifications<br>
@@ -77,57 +72,32 @@ From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 [gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Build blazing fast, modern apps and websites with React<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-11-25T12:05:45Z</sub></sup><br>
+<sup><sub>2021-01-30T17:36:44Z</sub></sup><br>
 
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-04-14T12:45:47Z</sub></sup><br>
 
-[gc-stats](https://github.com/alpiepho/gc-stats) <sup><i>(public)</i></sup> <br>
-Web application to view baseball stats data gathered from Node.js/Selenium tool running against popular website<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2017-07-26T13:59:26Z</sub></sup><br>
+[git-svn-migration-notes](https://github.com/alpiepho/git-svn-migration-notes/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Notes from actually migrating large SVN tracked code base to Git.<br>
+![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+<sup><sub>2021-01-28T15:23:24Z</sub></sup><br>
 
 [gitprime-patterns](https://github.com/alpiepho/gitprime-patterns/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A review of GitPrime 20 Patterns e-book as a PWA<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:37:08Z</sub></sup><br>
-
-[gophercises](https://github.com/alpiepho/gophercises/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-My solutions for the Gophercises challenges.  A work in progress...<br>
-![##00ADD8](https://placehold.it/15/00add8/000000?text=+) Go<br>
-<sup><sub>2020-07-20T12:40:50Z</sub></sup><br>
+<sup><sub>2021-01-25T08:38:40Z</sub></sup><br>
 
 [junit-plugin](https://github.com/alpiepho/junit-plugin/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Allows JUnit-format test results to be published<br>
 ![##B07218](https://placehold.it/15/b07218/000000?text=+) Java<br>
 <sup><sub>2019-11-05T21:41:42Z</sub></sup><br>
 
-[leadership](https://github.com/alpiepho/leadership/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Quick react app to show the AWS Leadership principles, my interpretation, and some work examples.<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:36:13Z</sub></sup><br>
-
 [log_plot](https://github.com/alpiepho/log_plot/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Jupyter Notebook for parsing log file and showing given log messages as a scatter plot<br>
 ![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
 <sup><sub>2020-11-12T18:24:48Z</sub></sup><br>
-
-[mental-models](https://github.com/alpiepho/mental-models/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Quick PWA to show Mental-Models from Medium article.<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:35:05Z</sub></sup><br>
-
-[ml-survey-part01-intro](https://github.com/alpiepho/ml-survey-part01-intro/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Introduction to series of ML tutorial implementations<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-11-24T21:00:27Z</sub></sup><br>
-
-[ml-survey-part02-rpi4-mask-dectector](https://github.com/alpiepho/ml-survey-part02-rpi4-mask-dectector/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-My implementation of Toms Hardware example of ML mask detector on Raspberry Pi 4<br>
-![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>
-<sup><sub>2020-11-24T20:34:35Z</sub></sup><br>
 
 [my-blog](https://github.com/alpiepho/my-blog/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My first blog based on a React/Gatsby starter project.<br>
@@ -152,7 +122,7 @@ A simple Node.js app to process the subscription export file from Overcast podca
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-23T11:33:05Z</sub></sup><br>
+<sup><sub>2020-11-25T12:45:02Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -164,26 +134,6 @@ My personal project portfolio.  Redirects to most recent version.<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
 <sup><sub>2019-08-29T22:57:36Z</sub></sup><br>
 
-[project-portfolio-html](https://github.com/alpiepho/project-portfolio-html/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Original html version<br>
-![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2019-04-30T23:21:43Z</sub></sup><br>
-
-[project-portfolio0](https://github.com/alpiepho/project-portfolio0) <sup><i>(public)</i></sup> <br>
-Original portfolio written in HTML, Javascript and CSS<br>
-![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2019-06-17T03:57:33Z</sub></sup><br>
-
-[project-portfolio1](https://github.com/alpiepho/project-portfolio1/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Version 1 re-written with React and designed as PWA<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:38:02Z</sub></sup><br>
-
-[project-portfolio2](https://github.com/alpiepho/project-portfolio2/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Version 2 with Gastby.js and starter.<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-10T13:47:39Z</sub></sup><br>
-
 [project-portfolio3](https://github.com/alpiepho/project-portfolio3/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Portfolio ported to Jekyll<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
@@ -192,7 +142,7 @@ Portfolio ported to Jekyll<br>
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-11-24T15:21:26Z</sub></sup><br>
+<sup><sub>2021-01-30T16:51:14Z</sub></sup><br>
 
 [pup-learning-aws](https://github.com/alpiepho/pup-learning-aws/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Gather learning details from AWS using Puppeteer<br>
@@ -203,16 +153,6 @@ Gather learning details from AWS using Puppeteer<br>
 Puppeteer application to gather completed Lynda.com courses and details<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
 <sup><sub>2020-05-13T00:14:00Z</sub></sup><br>
-
-[pup-parse-bsb](https://github.com/alpiepho/pup-parse-bsb/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Parse baseball scores using puppeteer<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-06-08T01:37:48Z</sub></sup><br>
-
-[pup-rally](https://github.com/alpiepho/pup-rally/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-(see link)<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-16T18:33:48Z</sub></sup><br>
 
 [pup-yt-fcc](https://github.com/alpiepho/pup-yt-fcc/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to format YouTube history for FreeCodeCamp courses taken<br>
@@ -234,25 +174,15 @@ Since gists are hard to find, moving key python gists to a repo<br>
 ![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>
 <sup><sub>2019-09-03T15:17:37Z</sub></sup><br>
 
-[py-parse-bsb](https://github.com/alpiepho/py-parse-bsb/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Python tool to automate gathering baseball score data.<br>
-![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>
-<sup><sub>2019-06-02T20:05:30Z</sub></sup><br>
-
 [react-dice](https://github.com/alpiepho/react-dice/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Very simple React Hooks example turned into a PWA<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:35:48Z</sub></sup><br>
 
-[react-stats-bsb](https://github.com/alpiepho/react-stats-bsb/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Baseball stats UI written in react, showing data gathered from pup-parse-bsb.<br>
-![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-07-12T13:45:42Z</sub></sup><br>
-
 [rpn-calc-chrome-extension](https://github.com/alpiepho/rpn-calc-chrome-extension/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A simple reverse-polish-notation (RPN) hex/dec calculator Chrome Browser Extension<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2019-05-16T10:16:27Z</sub></sup><br>
+<sup><sub>2021-01-11T02:46:26Z</sub></sup><br>
 
 [rpn-calc-vscode-extension](https://github.com/alpiepho/rpn-calc-vscode-extension/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple RPN (reverse polish notation) Hex calculator as a Visual Studio Code extension.  RECENTLY published on MS Marketplace!<br>
@@ -268,11 +198,6 @@ An extension that adds the ability to automatically scroll through long pages. <
 A PWA application that allows easy score keeping of a volleyball match and send results as text messages.<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:31:58Z</sub></sup><br>
-
-[Slide-Carousel-Simple](https://github.com/alpiepho/Slide-Carousel-Simple/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
-simple slide carousel / photo viewer<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-11-16T22:29:32Z</sub></sup><br>
 
 [state-web-development-2018-2019-withD3-pwa](https://github.com/alpiepho/state-web-development-2018-2019-withD3-pwa/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 D3 forced directed diagram based on State of Javascript 2018 and State of CSS 2019 - Ported to React/Gatsby/PWA<br>

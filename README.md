@@ -32,9 +32,30 @@ NOTE: Another current issues is a rate limit on the github api.  Currently this 
 without any authentication.  When athentication is implmented, this should go up to
 5000/hr.
  
-### TODO
+ ## Build
 
-- add user as environment variable
-- generate html (like pup-learning)
-- refactor with main.js
-- add GH Action
+ - export GH_API_TOKEN={token from GitHub}
+ 
+ - hand edit build_summary.js GHAPI_TYPE to 'all'
+ - run '''node build_summary.js''' to generate 'README_all_repos.md'
+ - cp README_all_repos.md ../../special_github/AllRepoList/README.md
+ - cd ../../special_github/AllRepoList
+ - git status
+ - git add -A
+ - git push -m "updated"
+ - cd -
+
+ - hand edit build_summary.js GHAPI_TYPE to 'public'
+ - run '''node build_summary.js''' to generate 'README_public_repos.md'
+ - cp README_public_repos.md ../../special_github/AlPiepho
+ - cd ../../special_github/AlPiepho
+ - git status
+ - git add -A
+ - git push -m "updated"
+ - cd -
+
+ - git status
+ - cd .
+ - git add -A
+ - git push -m "updated"
+
