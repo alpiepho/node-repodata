@@ -2,12 +2,12 @@
 ### All Public Repositories Alphabetically
 
 (46 Total, 37 Public, 9 Forks)<br>
-<sup><sub>(updated Sat Jan 30 2021 12:47:37 GMT-0700 (Mountain Standard Time))</sub></sup>
+<sup><sub>(updated Sun Jan 31 2021 08:43:31 GMT-0700 (Mountain Standard Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2020-11-25T12:46:10Z</sub></sup><br>
+<sup><sub>2021-01-30T19:52:07Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -72,7 +72,7 @@ From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 [gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Build blazing fast, modern apps and websites with React<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2021-01-30T17:36:44Z</sub></sup><br>
+<sup><sub>2021-01-31T12:31:12Z</sub></sup><br>
 
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
@@ -96,7 +96,7 @@ Allows JUnit-format test results to be published<br>
 
 [log_plot](https://github.com/alpiepho/log_plot/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Jupyter Notebook for parsing log file and showing given log messages as a scatter plot<br>
-![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>
+![##DA5B0A](https://placehold.it/15/da5b0a/000000?text=+) Jupyter Notebook<br>
 <sup><sub>2020-11-12T18:24:48Z</sub></sup><br>
 
 [my-blog](https://github.com/alpiepho/my-blog/blob/master/README.md) <sup><i>(public)</i></sup> <br>
@@ -107,7 +107,7 @@ My first blog based on a React/Gatsby starter project.<br>
 [my-blog2](https://github.com/alpiepho/my-blog2/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Another version of my blog based on the Gatsby blog theme (starter)<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-09-10T13:51:05Z</sub></sup><br>
+<sup><sub>2021-01-30T20:51:27Z</sub></sup><br>
 
 [my-pure-css](https://github.com/alpiepho/my-pure-css/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Collecting all my Pure CSS CodePen projects into a single site.<br>
@@ -122,7 +122,7 @@ A simple Node.js app to process the subscription export file from Overcast podca
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-11-25T12:45:02Z</sub></sup><br>
+<sup><sub>2021-01-30T19:53:17Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -137,7 +137,7 @@ My personal project portfolio.  Redirects to most recent version.<br>
 [project-portfolio3](https://github.com/alpiepho/project-portfolio3/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Portfolio ported to Jekyll<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-05-05T23:29:38Z</sub></sup><br>
+<sup><sub>2021-01-30T20:22:05Z</sub></sup><br>
 
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>

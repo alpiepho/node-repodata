@@ -221,7 +221,10 @@ function finishSpecialReadme(header, jsonData) {
       case "TypeScript":
         fileData += "![##2B7489](https://placehold.it/15/2b7489/000000?text=+) TypeScript<br>" + "\n"
         break;
-      default:
+      case "Jupyter Notebook":
+        fileData += "![##DA5B0A](https://placehold.it/15/da5b0a/000000?text=+) Jupyter Notebook<br>" + "\n"
+        break;
+        default:
         fileData += "![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>" + "\n"
         break;
     }
