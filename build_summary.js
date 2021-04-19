@@ -186,49 +186,49 @@ function finishSpecialReadme(header, jsonData) {
 
     switch(element.language) {
       case "C":
-        fileData += "![##545454](https://placehold.it/15/545454/000000?text=+) C<br>" + "\n"
+        fileData += "![##545454](http://placehold.it/15/545454/000000?text=+) C<br>" + "\n"
         break;
       case "C++":
-        fileData += "![##F34B7C](https://placehold.it/15/f34b7/000000?text=+) C++<br>" + "\n"
+        fileData += "![##F34B7C](http://placehold.it/15/f34b7/000000?text=+) C++<br>" + "\n"
         break;
       case "C#":
-        fileData += "![##178600](https://placehold.it/15/178600/000000?text=+) C#<br>" + "\n"
+        fileData += "![##178600](http://placehold.it/15/178600/000000?text=+) C#<br>" + "\n"
         break;
       case "CSS":
-        fileData += "![##58407E](https://placehold.it/15/58407e/000000?text=+) CSS<br>" + "\n"
+        fileData += "![##58407E](http://placehold.it/15/58407e/000000?text=+) CSS<br>" + "\n"
         break;
       case "Dart":
-        fileData += "![##89C051](https://placehold.it/15/00b4ab/000000?text=+) Dart<br>" + "\n"
+        fileData += "![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>" + "\n"
         break;
         case "Go":
-        fileData += "![##00ADD8](https://placehold.it/15/00add8/000000?text=+) Go<br>" + "\n"
+        fileData += "![##00ADD8](http://placehold.it/15/00add8/000000?text=+) Go<br>" + "\n"
         break;
       case "HTML":
-        fileData += "![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>" + "\n"
+        fileData += "![##E34C27](http://placehold.it/15/e34c27/000000?text=+) HTML<br>" + "\n"
         break;
       case "Java":
-        fileData += "![##B07218](https://placehold.it/15/b07218/000000?text=+) Java<br>" + "\n"
+        fileData += "![##B07218](http://placehold.it/15/b07218/000000?text=+) Java<br>" + "\n"
         break;
       case "JavaScript":
-        fileData += "![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>" + "\n"
+        fileData += "![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>" + "\n"
         break;
       case "PHP":
-        fileData += "![##4F5D94](https://placehold.it/15/4f5d94/000000?text=+) PHP<br>" + "\n"
+        fileData += "![##4F5D94](http://placehold.it/15/4f5d94/000000?text=+) PHP<br>" + "\n"
         break;
       case "Python":
-        fileData += "![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>" + "\n"
+        fileData += "![##3571A5](http://placehold.it/15/3571a5/000000?text=+) Python<br>" + "\n"
         break;
       case "Shell":
-        fileData += "![##89C051](https://placehold.it/15/89e051/000000?text=+) Shell<br>" + "\n"
+        fileData += "![##89C051](http://placehold.it/15/89e051/000000?text=+) Shell<br>" + "\n"
         break;
         case "TypeScript":
-        fileData += "![##2B7489](https://placehold.it/15/2b7489/000000?text=+) TypeScript<br>" + "\n"
+        fileData += "![##2B7489](http://placehold.it/15/2b7489/000000?text=+) TypeScript<br>" + "\n"
         break;
       case "Jupyter Notebook":
-        fileData += "![##DA5B0A](https://placehold.it/15/da5b0a/000000?text=+) Jupyter Notebook<br>" + "\n"
+        fileData += "![##DA5B0A](http://placehold.it/15/da5b0a/000000?text=+) Jupyter Notebook<br>" + "\n"
         break;
       default:
-        fileData += "![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>" + "\n"
+        fileData += "![#000000](http://placehold.it/15/000000/000000?text=+) unknown language<br>" + "\n"
         break;
     }
     //TODO fix this
