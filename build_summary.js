@@ -197,7 +197,10 @@ function finishSpecialReadme(header, jsonData) {
       case "CSS":
         fileData += "![##58407E](https://placehold.it/15/58407e/000000?text=+) CSS<br>" + "\n"
         break;
-      case "Go":
+      case "Dart":
+        fileData += "![##89C051](https://placehold.it/15/00b4ab/000000?text=+) Dart<br>" + "\n"
+        break;
+        case "Go":
         fileData += "![##00ADD8](https://placehold.it/15/00add8/000000?text=+) Go<br>" + "\n"
         break;
       case "HTML":
@@ -216,15 +219,15 @@ function finishSpecialReadme(header, jsonData) {
         fileData += "![##3571A5](https://placehold.it/15/3571a5/000000?text=+) Python<br>" + "\n"
         break;
       case "Shell":
-        fileData += "![##89E050](https://placehold.it/15/89e050/000000?text=+) Shell<br>" + "\n"
+        fileData += "![##89C051](https://placehold.it/15/89e051/000000?text=+) Shell<br>" + "\n"
         break;
-      case "TypeScript":
+        case "TypeScript":
         fileData += "![##2B7489](https://placehold.it/15/2b7489/000000?text=+) TypeScript<br>" + "\n"
         break;
       case "Jupyter Notebook":
         fileData += "![##DA5B0A](https://placehold.it/15/da5b0a/000000?text=+) Jupyter Notebook<br>" + "\n"
         break;
-        default:
+      default:
         fileData += "![#000000](https://placehold.it/15/000000/000000?text=+) unknown language<br>" + "\n"
         break;
     }

@@ -51,11 +51,13 @@ without any authentication.  When athentication is implmented, this should go up
  - cd ../../special_github/AlPiepho
  - git status
  - git add -A
- - git push -m "updated"
+ - git commit -m "updated"
+ - git push
  - cd -
 
  - git status
  - cd .
  - git add -A
- - git push -m "updated"
+ - git commit -m "updated"
+ - git push
 
